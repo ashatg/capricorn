@@ -6,3 +6,5 @@ welcome to my first file on GitHub
 
 learning plans
 interview calls
+attended 
+got job
